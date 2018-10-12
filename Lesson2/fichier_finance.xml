@@ -1,0 +1,38 @@
+<item>
+	<item>
+		<field name="Company Name">GOOGL.OQ</field>
+		<field name="Stock Exchange (EUR)">1090.74</field>
+		<field name="Percent Change (%)">-0.13</field>
+		<field name="Shares Owned (%)">80.56</field>
+		<field name="Company Divident Yield">NC</field>
+		<field name="Industry Divident Yield">0.59</field>
+		<field name="Sector Divident Yield">2.39</field>
+		<field name="Quarter Dec-18 Mean (M)">39300.1</field>
+		<field name="Quarter Dec-18 High (M)">40178.0</field>
+		<field name="Quarter Dec-18 Low (M)">38377.0</field>
+	</item>
+	<item>
+		<field name="Company Name">LVMH.PA</field>
+		<field name="Stock Exchange (EUR)">261.95</field>
+		<field name="Percent Change (%)">NC</field>
+		<field name="Shares Owned (%)">20.57</field>
+		<field name="Company Divident Yield">1.92</field>
+		<field name="Industry Divident Yield">1.7</field>
+		<field name="Sector Divident Yield">2.6</field>
+		<field name="Quarter Dec-18 Mean (M)">13667.7</field>
+		<field name="Quarter Dec-18 High (M)">13769.0</field>
+		<field name="Quarter Dec-18 Low (M)">13575.0</field>
+	</item>
+	<item>
+		<field name="Company Name">DANO.PA</field>
+		<field name="Stock Exchange (EUR)">63.93</field>
+		<field name="Percent Change (%)">NC</field>
+		<field name="Shares Owned (%)">50.61</field>
+		<field name="Company Divident Yield">2.49</field>
+		<field name="Industry Divident Yield">2.35</field>
+		<field name="Sector Divident Yield">2.23</field>
+		<field name="Quarter Dec-18 Mean (M)">6072.6</field>
+		<field name="Quarter Dec-18 High (M)">6142.0</field>
+		<field name="Quarter Dec-18 Low (M)">6025.0</field>
+	</item>
+</item>
