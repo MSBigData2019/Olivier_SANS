@@ -39,7 +39,7 @@ def _get_stock_exchange_and_percent_change_information(soup):
     stock_exchange_parsed = _clean_string_and_parse_to_float(stock_exchange)
     percent_change = soup.find("div", class_="sectionQuote priceChange")\
                          .find("span", class_="valueContentPercent").text
-    percent_change_parsed = _clean_string_and_parse_to_float(percent_change)
+    percent_change_parsed = _clean_string_and_parse_to_float(str(percent_change))
     return [stock_exchange_parsed, percent_change_parsed]
 
 
