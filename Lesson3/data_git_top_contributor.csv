@@ -1,6 +1,6 @@
 ;User;Location;Mean of Stars
 0;bailicangdu;Shanghai, China;3507.6923076923076
-1;kamranahmedse;Dubai;3316.2
+1;kamranahmedse;Dubai;3316.3
 2;vinta;Taipei, Taiwan;1953.7
 3;mrdoob;;1860.3
 4;sebastianbergmann;Siegburg, Germany;1628.2666666666667
@@ -13,11 +13,11 @@
 11;zenorocha;California;1208.8
 12;josephmisiti;NYC, NY;1200.9333333333334
 13;jaywcjlove;Shanghai, China;954.6333333333333
-14;photonstorm;UK;899.5333333333333
+14;photonstorm;UK;899.5666666666667
 15;binux;London, UK;856.0
 16;gorhill;Canada / Québec;851.6666666666666
 17;connors;Castro Valley, CA;644.0714285714286
-18;fzaninotto;Nancy, France;629.9666666666667
+18;fzaninotto;Nancy, France;630.0
 19;krzysztofzablocki;Warsaw, Poland;590.4333333333333
 20;CamDavidsonPilon;Ottawa, Canada;587.2
 21;kennethreitz;Winchester, VA;563.4
@@ -32,7 +32,7 @@
 30;Unknwon;Boston, MA;401.7
 31;daylerees;Wales, UK;398.43333333333334
 32;Shougo;Vim;386.3666666666667
-33;dennybritz;Mountain View, CA;384.93333333333334
+33;dennybritz;Mountain View, CA;384.96666666666664
 34;winterbe;Hanover, Germany;370.8
 35;mxcl;Savannah, GA;369.1
 36;vczh;Seattle, WA, USA;347.5
@@ -48,7 +48,7 @@
 46;be5invis;Beijing, China;226.16666666666666
 47;kylef;London, England;223.23333333333332
 48;overtrue;Shenzhen,China;220.9
-49;JohnSundell;Poland / Norway / Sweden;218.4
+49;JohnSundell;Poland / Norway / Sweden;218.43333333333334
 50;rakyll;San Francisco, CA;203.96666666666667
 51;DataTables;Scotland;202.0
 52;carpedm20;;200.83333333333334
@@ -66,7 +66,7 @@
 64;nikic;Berlin, Germany;159.63333333333333
 65;mitchellh;Los Angeles, CA;155.26666666666668
 66;soumith;New York, USA;152.86666666666667
-67;kentcdodds;Salt Lake City, Utah, USA;146.7
+67;kentcdodds;Salt Lake City, Utah, USA;146.73333333333332
 68;eliben;California;140.16666666666666
 69;alexjlockwood;San Francisco, CA;137.83333333333334
 70;nicolasgramlich;San Francisco, CA;137.36666666666667
@@ -82,12 +82,12 @@
 80;feross;Mountain View, CA;103.93333333333334
 81;KittenYang;Shanghai,China;103.6
 82;philsturgeon;Brooklyn, NY;103.13333333333334
-83;phodal;Shenzhen, China;101.56666666666666
+83;phodal;Shenzhen, China;101.6
 84;willdurand;Germany;99.0
 85;geerlingguy;St. Louis, MO;98.9
 86;josevalim;Kraków, Poland;98.1304347826087
 87;notwaldorf;Sun Funcisco ☀️;95.0
-88;mcollina;In the clouds above Italy;89.33333333333333
+88;mcollina;In the clouds above Italy;89.36666666666666
 89;soffes;San Francisco;82.0
 90;technoweenie;Louisville, CO;81.56666666666666
 91;ericelliott;San Francisco, California;80.2
@@ -176,8 +176,8 @@
 174;amueller;NYC;12.3
 175;ornicar;Paris, France;12.3
 176;maryrosecook;London, UK;12.1
-177;ianstormtaylor;San Francisco, CA;11.266666666666667
-178;laanwj;Eindhoven, The Netherlands;11.266666666666667
+177;laanwj;Eindhoven, The Netherlands;11.3
+178;ianstormtaylor;San Francisco, CA;11.266666666666667
 179;nvie;Netherlands;11.233333333333333
 180;brunocvcunha;Worldwide;11.066666666666666
 181;drnic;Brisbane, Australia;10.033333333333333
